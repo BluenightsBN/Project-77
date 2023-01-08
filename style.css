@@ -1,0 +1,28 @@
+h1 {
+     display: block;
+      font-size: 100px; 
+      font-style: oblique;
+      margin-top: 0.67em; 
+      color: aliceblue;
+}
+
+h2 { 
+    display: block;
+     font-size: 90px;
+      margin-top: 0.83em;
+      font-style: oblique;
+      color: aliceblue;
+}
+
+body {
+
+background: linear-gradient( #0c546e 0%, #6e6b0c 100%);
+text-align: center;
+
+}
+
+p {
+    color: white;
+    font-style: initial;
+    font-size: 40px;
+}
